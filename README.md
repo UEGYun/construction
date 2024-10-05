@@ -1,5 +1,5 @@
 # Construction
-[ 링크 ]
+[ link of home ]
 <br>https://github.com/uegyun/construction/k-ensol
 <br>https://github.com/uegyun/construction/samsung
 <br>
