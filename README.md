@@ -5,3 +5,5 @@
 <br>
 <br>[ URL ]
 <br>https://uegyun.github.io/construction/
+<br>https://uegyun.github.io/construction/k-ensol/
+<br>https://uegyun.github.io/construction/samsung/
