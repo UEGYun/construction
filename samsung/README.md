@@ -11,4 +11,4 @@
 <br>CP0408196.id <==> 1q2w3e4r! <==> akigaze2@naver.com(secds\CP0408196.id)
 <br>
 <br>[ 안전보건공단 ] 안전보건교육포털
-<br>https://www.koshats.or.kr/
+<br>https://edu.kosha.or.kr/headquater/
