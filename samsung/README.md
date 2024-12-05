@@ -2,6 +2,14 @@
 <br>[ 삼성건설 App Store ]
 <br>https://www.spmportal.com/mas/download/appstore.html
 <br>
+<br>☆신규자 필수 설치 어플☆
+EMM설치링크 (안드로이드)
+https://emm.mkiis.co.kr:35443/down
+EMM설치링크 (아이폰)
+https://emm.mkiis.co.kr:35443/down/ios.html
+건설 APP스토어 다운링크 (안드로이드)https://www.spmportal.com/mas/download/appstore.html
+INO 설치링크 (아이폰)
+https://www.spmportal.com/pmsn/html/module/ino/ino_installer.html
 <br>[ 삼성물산EMM(iOS) ] URL
 <br>https://emm.mkiis.co.kr:35443/down/ios.html
 <br>
