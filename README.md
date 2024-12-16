@@ -6,6 +6,8 @@
 <br>
 <br>https://github.com/uegyun/construction/tree/main/samsung/
 <br>
+<br>https://github.com/uegyun/construction/tree/main/sinsung/
+<br>
 <hr>
 <br>[ URL ]
 <br>https://uegyun.github.io/construction/
@@ -15,6 +17,8 @@
 <br>https://uegyun.github.io/construction/profile/
 <br>
 <br>https://uegyun.github.io/construction/samsung/
+<br>
+<br>https://uegyun.github.io/construction/sinsung/
 <br>
 <br>https://uegyun.github.io/construction/samsung/udodab/
 <hr>
