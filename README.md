@@ -6,7 +6,7 @@
 <br>
 <br>https://github.com/uegyun/construction/tree/main/samsung/
 <br>
-<br>https://github.com/uegyun/construction/tree/main/sinsung/moldbar-sell/
+<br>https://github.com/uegyun/construction/tree/main/sinsung/moldbar-pack/
 <br>
 <hr>
 <br>[ URL ]
@@ -20,5 +20,5 @@
 <br>
 <br>https://uegyun.github.io/construction/samsung/udodab/
 <br>
-<br>https://uegyun.github.io/construction/sinsung/moldbar-sell/
+<br>https://uegyun.github.io/construction/sinsung/moldbar-pack/
 <hr>
