@@ -22,6 +22,8 @@
 <br>
 <br>https://uegyun.github.io/construction/samsung/udodab/
 <br>
+<br>https://uegyun.github.io/construction/samsung/notice/one-sheet/
+<br>
 <br>https://uegyun.github.io/construction/samsung/notice/hold-point/
 <br>
 <br>https://uegyun.github.io/construction/sinsung/moldbar-pack/
