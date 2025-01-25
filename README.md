@@ -8,7 +8,7 @@
 <br>
 <br>https://github.com/uegyun/construction/tree/main/samsung/notice/
 <br>
-<br>https://github.com/uegyun/construction/tree/main/sinsung/moldbar-pack/
+<br>https://github.com/uegyun/construction/tree/main/shinsung/moldbar-pack/
 <br>
 <hr>
 <br>[ URL ]
@@ -24,5 +24,5 @@
 <br>
 <br>https://uegyun.github.io/construction/samsung/notice/
 <br>
-<br>https://uegyun.github.io/construction/sinsung/moldbar-pack/
+<br>https://uegyun.github.io/construction/shinsung/moldbar-pack/
 <hr>
